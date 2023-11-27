@@ -13,7 +13,7 @@ Also for the otimization model, it was considered the formulation found in the f
 
 [https://personal.utdallas.edu/~scniu/OPRE-6201/documents/DP3-Knapsack.pdf](https://personal.utdallas.edu/~scniu/OPRE-6201/documents/DP3-Knapsack.pdf)
 
-## SA Convergence
+## GRASP Convergence
 <table>
   <tr>
     <td><img src="plots/1_500_1000_1.png"></td>
