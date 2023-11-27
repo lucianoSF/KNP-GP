@@ -1,0 +1,395 @@
+this works
+Best Solution Cost -->  65921 k:  0
+this works
+Best Solution Cost -->  76273 k:  0
+this works
+Best Solution Cost -->  86056 k:  0
+this works
+Best Solution Cost -->  86056 k:  1
+this works
+Best Solution Cost -->  86056 k:  2
+this works
+Best Solution Cost -->  86056 k:  3
+this works
+Best Solution Cost -->  90105 k:  0
+this works
+Best Solution Cost -->  94945 k:  0
+this works
+Best Solution Cost -->  94945 k:  1
+this works
+Best Solution Cost -->  94945 k:  2
+this works
+Best Solution Cost -->  94945 k:  3
+this works
+Best Solution Cost -->  94945 k:  4
+this works
+Best Solution Cost -->  95619 k:  0
+this works
+Best Solution Cost -->  95619 k:  1
+this works
+Best Solution Cost -->  95619 k:  2
+this works
+Best Solution Cost -->  95619 k:  3
+this works
+Best Solution Cost -->  95619 k:  4
+this works
+Best Solution Cost -->  95619 k:  5
+this works
+Best Solution Cost -->  95619 k:  6
+this works
+Best Solution Cost -->  95619 k:  7
+this works
+Best Solution Cost -->  95619 k:  8
+this works
+Best Solution Cost -->  95619 k:  9
+this works
+Best Solution Cost -->  95619 k:  10
+this works
+Best Solution Cost -->  95619 k:  11
+this works
+Best Solution Cost -->  95619 k:  12
+this works
+Best Solution Cost -->  95619 k:  13
+this works
+Best Solution Cost -->  95619 k:  14
+this works
+Best Solution Cost -->  95619 k:  15
+this works
+Best Solution Cost -->  95619 k:  16
+this works
+Best Solution Cost -->  95619 k:  17
+this works
+Best Solution Cost -->  95619 k:  18
+this works
+Best Solution Cost -->  95619 k:  19
+this works
+Best Solution Cost -->  95619 k:  20
+this works
+Best Solution Cost -->  95619 k:  21
+this works
+Best Solution Cost -->  95619 k:  22
+this works
+Best Solution Cost -->  95619 k:  23
+this works
+Best Solution Cost -->  95619 k:  24
+this works
+Best Solution Cost -->  95619 k:  25
+this works
+Best Solution Cost -->  95619 k:  26
+this works
+Best Solution Cost -->  95619 k:  27
+this works
+Best Solution Cost -->  95619 k:  28
+this works
+Best Solution Cost -->  95619 k:  29
+this works
+Best Solution Cost -->  95619 k:  30
+this works
+Best Solution Cost -->  95619 k:  31
+this works
+Best Solution Cost -->  95619 k:  32
+this works
+Best Solution Cost -->  95619 k:  33
+this works
+Best Solution Cost -->  95619 k:  34
+this works
+Best Solution Cost -->  95619 k:  35
+this works
+Best Solution Cost -->  95619 k:  36
+this works
+Best Solution Cost -->  95619 k:  37
+this works
+Best Solution Cost -->  95619 k:  38
+this works
+Best Solution Cost -->  95619 k:  39
+this works
+Best Solution Cost -->  95619 k:  40
+this works
+Best Solution Cost -->  95619 k:  41
+this works
+Best Solution Cost -->  95619 k:  42
+this works
+Best Solution Cost -->  95619 k:  43
+this works
+Best Solution Cost -->  95619 k:  44
+this works
+Best Solution Cost -->  95619 k:  45
+this works
+Best Solution Cost -->  95619 k:  46
+this works
+Best Solution Cost -->  95619 k:  47
+this works
+Best Solution Cost -->  95619 k:  48
+this works
+Best Solution Cost -->  95619 k:  49
+this works
+Best Solution Cost -->  95619 k:  50
+this works
+Best Solution Cost -->  95619 k:  51
+this works
+Best Solution Cost -->  95619 k:  52
+this works
+Best Solution Cost -->  95619 k:  53
+this works
+Best Solution Cost -->  95619 k:  54
+this works
+Best Solution Cost -->  95619 k:  55
+this works
+Best Solution Cost -->  95619 k:  56
+this works
+Best Solution Cost -->  95619 k:  57
+this works
+Best Solution Cost -->  95619 k:  58
+this works
+Best Solution Cost -->  95619 k:  59
+this works
+Best Solution Cost -->  95619 k:  60
+this works
+Best Solution Cost -->  95619 k:  61
+this works
+Best Solution Cost -->  95619 k:  62
+this works
+Best Solution Cost -->  95619 k:  63
+this works
+Best Solution Cost -->  95619 k:  64
+this works
+Best Solution Cost -->  95619 k:  65
+this works
+Best Solution Cost -->  95619 k:  66
+this works
+Best Solution Cost -->  95619 k:  67
+this works
+Best Solution Cost -->  95619 k:  68
+this works
+Best Solution Cost -->  95619 k:  69
+this works
+Best Solution Cost -->  95619 k:  70
+this works
+Best Solution Cost -->  95619 k:  71
+this works
+Best Solution Cost -->  95619 k:  72
+this works
+Best Solution Cost -->  95619 k:  73
+this works
+Best Solution Cost -->  95619 k:  74
+this works
+Best Solution Cost -->  95619 k:  75
+this works
+Best Solution Cost -->  95619 k:  76
+this works
+Best Solution Cost -->  95619 k:  77
+this works
+Best Solution Cost -->  95619 k:  78
+this works
+Best Solution Cost -->  95619 k:  79
+this works
+Best Solution Cost -->  95619 k:  80
+this works
+Best Solution Cost -->  95619 k:  81
+this works
+Best Solution Cost -->  96744 k:  0
+this works
+Best Solution Cost -->  96744 k:  1
+this works
+Best Solution Cost -->  96744 k:  2
+this works
+Best Solution Cost -->  96744 k:  3
+this works
+Best Solution Cost -->  96744 k:  4
+this works
+Best Solution Cost -->  96744 k:  5
+this works
+Best Solution Cost -->  96744 k:  6
+this works
+Best Solution Cost -->  96744 k:  7
+this works
+Best Solution Cost -->  96744 k:  8
+this works
+Best Solution Cost -->  96744 k:  9
+this works
+Best Solution Cost -->  96744 k:  10
+this works
+Best Solution Cost -->  96744 k:  11
+this works
+Best Solution Cost -->  96744 k:  12
+this works
+Best Solution Cost -->  96744 k:  13
+this works
+Best Solution Cost -->  96744 k:  14
+this works
+Best Solution Cost -->  96744 k:  15
+this works
+Best Solution Cost -->  96744 k:  16
+this works
+Best Solution Cost -->  96744 k:  17
+this works
+Best Solution Cost -->  96744 k:  18
+this works
+Best Solution Cost -->  96744 k:  19
+this works
+Best Solution Cost -->  96744 k:  20
+this works
+Best Solution Cost -->  96744 k:  21
+this works
+Best Solution Cost -->  96744 k:  22
+this works
+Best Solution Cost -->  96744 k:  23
+this works
+Best Solution Cost -->  96744 k:  24
+this works
+Best Solution Cost -->  96744 k:  25
+this works
+Best Solution Cost -->  96744 k:  26
+this works
+Best Solution Cost -->  96744 k:  27
+this works
+Best Solution Cost -->  96744 k:  28
+this works
+Best Solution Cost -->  96744 k:  29
+this works
+Best Solution Cost -->  96744 k:  30
+this works
+Best Solution Cost -->  96744 k:  31
+this works
+Best Solution Cost -->  96744 k:  32
+this works
+Best Solution Cost -->  96744 k:  33
+this works
+Best Solution Cost -->  96744 k:  34
+this works
+Best Solution Cost -->  96744 k:  35
+this works
+Best Solution Cost -->  96744 k:  36
+this works
+Best Solution Cost -->  96744 k:  37
+this works
+Best Solution Cost -->  96744 k:  38
+this works
+Best Solution Cost -->  96744 k:  39
+this works
+Best Solution Cost -->  96744 k:  40
+this works
+Best Solution Cost -->  96744 k:  41
+this works
+Best Solution Cost -->  96744 k:  42
+this works
+Best Solution Cost -->  96744 k:  43
+this works
+Best Solution Cost -->  96744 k:  44
+this works
+Best Solution Cost -->  96744 k:  45
+this works
+Best Solution Cost -->  96744 k:  46
+this works
+Best Solution Cost -->  96744 k:  47
+this works
+Best Solution Cost -->  96744 k:  48
+this works
+Best Solution Cost -->  96744 k:  49
+this works
+Best Solution Cost -->  96744 k:  50
+this works
+Best Solution Cost -->  96744 k:  51
+this works
+Best Solution Cost -->  96744 k:  52
+this works
+Best Solution Cost -->  96744 k:  53
+this works
+Best Solution Cost -->  96744 k:  54
+this works
+Best Solution Cost -->  96744 k:  55
+this works
+Best Solution Cost -->  96744 k:  56
+this works
+Best Solution Cost -->  96744 k:  57
+this works
+Best Solution Cost -->  96744 k:  58
+this works
+Best Solution Cost -->  96744 k:  59
+this works
+Best Solution Cost -->  96744 k:  60
+this works
+Best Solution Cost -->  96744 k:  61
+this works
+Best Solution Cost -->  96744 k:  62
+this works
+Best Solution Cost -->  96744 k:  63
+this works
+Best Solution Cost -->  96744 k:  64
+this works
+Best Solution Cost -->  96744 k:  65
+this works
+Best Solution Cost -->  96744 k:  66
+this works
+Best Solution Cost -->  96744 k:  67
+this works
+Best Solution Cost -->  96744 k:  68
+this works
+Best Solution Cost -->  96744 k:  69
+this works
+Best Solution Cost -->  96744 k:  70
+this works
+Best Solution Cost -->  96744 k:  71
+this works
+Best Solution Cost -->  96744 k:  72
+this works
+Best Solution Cost -->  96744 k:  73
+this works
+Best Solution Cost -->  96744 k:  74
+this works
+Best Solution Cost -->  96744 k:  75
+this works
+Best Solution Cost -->  96744 k:  76
+this works
+Best Solution Cost -->  96744 k:  77
+this works
+Best Solution Cost -->  96744 k:  78
+this works
+Best Solution Cost -->  96744 k:  79
+this works
+Best Solution Cost -->  96744 k:  80
+this works
+Best Solution Cost -->  96744 k:  81
+this works
+Best Solution Cost -->  96744 k:  82
+this works
+Best Solution Cost -->  96744 k:  83
+this works
+Best Solution Cost -->  96744 k:  84
+this works
+Best Solution Cost -->  96744 k:  85
+this works
+Best Solution Cost -->  96744 k:  86
+this works
+Best Solution Cost -->  96744 k:  87
+this works
+Best Solution Cost -->  96744 k:  88
+this works
+Best Solution Cost -->  96744 k:  89
+this works
+Best Solution Cost -->  96744 k:  90
+this works
+Best Solution Cost -->  96744 k:  91
+this works
+Best Solution Cost -->  96744 k:  92
+this works
+Best Solution Cost -->  96744 k:  93
+this works
+Best Solution Cost -->  96744 k:  94
+this works
+Best Solution Cost -->  96744 k:  95
+this works
+Best Solution Cost -->  96744 k:  96
+this works
+Best Solution Cost -->  96744 k:  97
+this works
+Best Solution Cost -->  96744 k:  98
+this works
+Best Solution Cost -->  96744 k:  99
+this works
+Best Solution Cost -->  96744 k:  100
+[831, 1458, 1144, 122, 1618, 1362, 1905, 11, 604, 1058, 217, 600, 738, 420, 1323, 1049, 1334, 1100, 348, 1717, 1874, 1673, 733, 474, 427, 1473, 771, 380, 147, 946, 61, 1592, 1118, 755, 1533, 54, 274, 49, 26, 470, 1486, 968, 1730, 135, 658, 1562, 24, 1605, 495, 1474, 1345, 1344, 1395, 562, 744, 574, 1891, 856, 704, 1831, 477, 1549, 282, 1467, 383, 1616, 189, 1883, 776, 1508, 39, 709, 1691, 250, 422, 1249, 7, 464, 1273, 1916, 611, 823, 1476, 1044, 1550, 825, 363, 494, 737, 1401, 38, 1655, 1955, 754, 1693, 1901, 1821, 846, 1865, 1954, 915, 837, 993, 613, 1439, 1434, 1725, 988, 990, 1247, 1354, 1665, 1138, 1240, 152, 1115, 1998, 1139, 787, 1545, 148, 1032, 1484, 1727, 221, 13, 1882, 1004, 1420, 1043, 550, 33, 335, 740]
+Final Solution:  [831, 1458, 1144, 122, 1618, 1362, 1905, 11, 604, 1058, 217, 600, 738, 420, 1323, 1049, 1334, 1100, 348, 1717, 1874, 1673, 733, 474, 427, 1473, 771, 380, 147, 946, 61, 1592, 1118, 755, 1533, 54, 274, 49, 26, 470, 1486, 968, 1730, 135, 658, 1562, 24, 1605, 495, 1474, 1345, 1344, 1395, 562, 744, 574, 1891, 856, 704, 1831, 477, 1549, 282, 1467, 383, 1616, 189, 1883, 776, 1508, 39, 709, 1691, 250, 422, 1249, 7, 464, 1273, 1916, 611, 823, 1476, 1044, 1550, 825, 363, 494, 737, 1401, 38, 1655, 1955, 754, 1693, 1901, 1821, 846, 1865, 1954, 915, 837, 993, 613, 1439, 1434, 1725, 988, 990, 1247, 1354, 1665, 1138, 1240, 152, 1115, 1998, 1139, 787, 1545, 148, 1032, 1484, 1727, 221, 13, 1882, 1004, 1420, 1043, 550, 33, 335, 740] 
+Cost:  96744 
+Weight 9993
+Time:  186.9990656375885

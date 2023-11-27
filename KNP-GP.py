@@ -5,8 +5,8 @@ import time
 #code = '1_100_1000_1'
 #code = '1_200_1000_1'
 #code = '1_500_1000_1'
-code = '1_1000_1000_1'
-#code = '1_2000_1000_1'
+#code = '1_1000_1000_1'
+code = '1_2000_1000_1'
 #code = '1_5000_1000_1'
 
 # Ler dados de entrada
@@ -14,6 +14,7 @@ def read_weights_and_costs(file_name='instances/knapPI_' + code):
     count = 1
     weights = {}
     costs = {}
+    ratio = {}
     
     file = open(file_name, "r")
     data = file.readlines()
@@ -26,9 +27,10 @@ def read_weights_and_costs(file_name='instances/knapPI_' + code):
         
         costs[count] = int(data[i].split()[0])
         weights[count] = int(data[i].split()[1])
+        ratio[count] = costs[count]/weights[count]
         count = count + 1
 
-    return weights, costs, number_of_things, capacity
+    return weights, costs, ratio, number_of_things, capacity
 
 
 # Criar solução candidata
@@ -103,7 +105,7 @@ def LOCALSEARCH(num_of_things, weights, costs, new_solution, new_weight, new_cos
     #print('best', best_neigh)
     return best_neigh, best_weight, best_cost
         
-def construct_solution(number_of_things, weights, costs):
+def construct_solution(number_of_things, weights, costs, ratio):
     total_weight = 0
     total_cost = 0
    
@@ -113,13 +115,13 @@ def construct_solution(number_of_things, weights, costs):
     # inserir elementos na mochila enquanto ela suportar
     while(total_weight <= capacity):
         alpha = random.random()
-        min_cost = costs[min(costs, key=costs.get)]
-        max_cost = costs[max(costs, key=costs.get)]
+        min_cost = ratio[min(ratio, key=ratio.get)]
+        max_cost = ratio[max(ratio, key=ratio.get)]
         threeshould_of_RCL = min_cost + alpha*(max_cost - min_cost)
         RCL = []
         
         for item in list_of_things:
-            if costs[item]>threeshould_of_RCL:
+            if ratio[item]>threeshould_of_RCL:
                 RCL.append(item)
         #print('RCL', RCL)  
         rc = len(RCL)
@@ -150,11 +152,12 @@ def construct_solution(number_of_things, weights, costs):
     
     
     
-def GRASP(num_of_things, weights, costs):
+def GRASP(num_of_things, weights, costs, ratio):
 
     k = 0 # iteração sem mudança na solução
     LIST_OF_SOLUTIONS = []
     LIST_OF_BEST = []
+    LIST_AFTER_LS = []
     
     best_solution = None
     best_solution_cost = None
@@ -173,10 +176,10 @@ def GRASP(num_of_things, weights, costs):
 
 
         # Gera solução candidata
-        new_solution, new_weight, new_cost = construct_solution(num_of_things, weights, costs)
-        
+        new_solution, new_weight, new_cost = construct_solution(num_of_things, weights, costs, ratio)
+        LIST_OF_SOLUTIONS.append(new_cost)
         new_solution, new_weight, new_cost = LOCALSEARCH(num_of_things, weights, costs, new_solution, new_weight, new_cost)
-        
+        LIST_AFTER_LS.append(new_cost)
         #new_solution.sort()
         # A melhor solução vizinha não deve estar na lista TABU (testada anteriormente)
         #if new_solution not in TABU:
@@ -201,38 +204,42 @@ def GRASP(num_of_things, weights, costs):
         print('Best Solution Cost --> ', best_solution_cost, 'k: ', k)
         
                 
-        LIST_OF_SOLUTIONS.append(new_cost)
+        
         LIST_OF_BEST.append(best_solution_cost)
         
-    record_solutions(solutions=LIST_OF_SOLUTIONS, best=LIST_OF_BEST, suf='_solution.csv')
+    record_solutions(solutions=LIST_OF_SOLUTIONS, after_ls=LIST_AFTER_LS, best=LIST_OF_BEST, suf='_solution.csv')
     #record_solutions(solutions=LIST_OF_BEST, suf='_best.csv')
 
     return best_solution, best_solution_weight, best_solution_cost
  
 # Gravar soluções em arquivo
-def record_solutions(solutions, best, suf, code=code):
-        with open('saidas/TS/' + code  + suf, 'a') as file:
-            file.write('Current;Best\n')
+def record_solutions(solutions, after_ls, best, suf, code=code):
+        with open('saidas/GP/' + code  + suf, 'a') as file:
+            file.write('Constructed;AfterLS;Best\n')
             
-            for item1, item2 in zip(solutions, best):
-                file.write(str(item1) +';' + str(item2) + '\n')
+            for item1, item2, item3 in zip(solutions, after_ls, best):
+                file.write(str(item1) + ';' + str(item2) + ';' + str(item3) + '\n')
                 
 
 if __name__ == '__main__':
     
     start = time.time()
     
-    number_iterations_solution_is_not_improved = 1000
+    number_iterations_solution_is_not_improved = 100
     #size_of_tabu = 20
 
-    weights, costs, number_of_things, capacity = read_weights_and_costs()
+    weights, costs, ratio, number_of_things, capacity = read_weights_and_costs()
+    #print(weights)
+    #print(costs)
+    #print(ratio)
+    
     
     #initial_solution, initial_weight, initial_cost = create_solution(weights, costs, number_of_things, capacity)
     
     #print('FIRST SOLUTION', initial_solution, initial_weight, initial_cost, capacity)
     
     
-    final_solution, final_weight, final_cost = GRASP(number_of_things, weights, costs)
+    final_solution, final_weight, final_cost = GRASP(number_of_things, weights, costs, ratio)
     
     print(final_solution)
     final = time.time()

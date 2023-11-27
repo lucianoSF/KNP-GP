@@ -1,9 +1,9 @@
-# KNP-TS
-Tabu Search implementation for the Knapsack problem.
+# KNP-GP
+GRASP implementation for the Knapsack problem.
 
 
 
-This repository contains the implementation for both, the TABU Search metaheurístic and the optimal approach to solve the Knapsack problem.
+This repository contains the implementation for both, the GRASP metaheurístic and the optimal approach to solve the Knapsack problem.
 
 The instances used in this work, are adaptations of the instances found in this:
 

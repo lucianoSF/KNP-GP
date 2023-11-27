@@ -1,0 +1,289 @@
+this works
+Best Solution Cost -->  7963 k:  0
+this works
+Best Solution Cost -->  7963 k:  1
+this works
+Best Solution Cost -->  7963 k:  2
+this works
+Best Solution Cost -->  7963 k:  3
+this works
+Best Solution Cost -->  7963 k:  4
+this works
+Best Solution Cost -->  8267 k:  0
+this works
+Best Solution Cost -->  8267 k:  1
+this works
+Best Solution Cost -->  8516 k:  0
+this works
+Best Solution Cost -->  8516 k:  1
+this works
+Best Solution Cost -->  8516 k:  2
+this works
+Best Solution Cost -->  8516 k:  3
+this works
+Best Solution Cost -->  8516 k:  4
+this works
+Best Solution Cost -->  8516 k:  5
+this works
+Best Solution Cost -->  8516 k:  6
+this works
+Best Solution Cost -->  8516 k:  7
+this works
+Best Solution Cost -->  8516 k:  8
+this works
+Best Solution Cost -->  8516 k:  9
+this works
+Best Solution Cost -->  8516 k:  10
+this works
+Best Solution Cost -->  8516 k:  11
+this works
+Best Solution Cost -->  8516 k:  12
+this works
+Best Solution Cost -->  8516 k:  13
+this works
+Best Solution Cost -->  8516 k:  14
+this works
+Best Solution Cost -->  8516 k:  15
+this works
+Best Solution Cost -->  8516 k:  16
+this works
+Best Solution Cost -->  8516 k:  17
+this works
+Best Solution Cost -->  8516 k:  18
+this works
+Best Solution Cost -->  8516 k:  19
+this works
+Best Solution Cost -->  8516 k:  20
+this works
+Best Solution Cost -->  8516 k:  21
+this works
+Best Solution Cost -->  8516 k:  22
+this works
+Best Solution Cost -->  8516 k:  23
+this works
+Best Solution Cost -->  8516 k:  24
+this works
+Best Solution Cost -->  8516 k:  25
+this works
+Best Solution Cost -->  8516 k:  26
+this works
+Best Solution Cost -->  8516 k:  27
+this works
+Best Solution Cost -->  8516 k:  28
+this works
+Best Solution Cost -->  8516 k:  29
+this works
+Best Solution Cost -->  8516 k:  30
+this works
+Best Solution Cost -->  8516 k:  31
+this works
+Best Solution Cost -->  8516 k:  32
+this works
+Best Solution Cost -->  8544 k:  0
+this works
+Best Solution Cost -->  9147 k:  0
+this works
+Best Solution Cost -->  9147 k:  1
+this works
+Best Solution Cost -->  9147 k:  2
+this works
+Best Solution Cost -->  9147 k:  3
+this works
+Best Solution Cost -->  9147 k:  4
+this works
+Best Solution Cost -->  9147 k:  5
+this works
+Best Solution Cost -->  9147 k:  6
+this works
+Best Solution Cost -->  9147 k:  7
+this works
+Best Solution Cost -->  9147 k:  8
+this works
+Best Solution Cost -->  9147 k:  9
+this works
+Best Solution Cost -->  9147 k:  10
+this works
+Best Solution Cost -->  9147 k:  11
+this works
+Best Solution Cost -->  9147 k:  12
+this works
+Best Solution Cost -->  9147 k:  13
+this works
+Best Solution Cost -->  9147 k:  14
+this works
+Best Solution Cost -->  9147 k:  15
+this works
+Best Solution Cost -->  9147 k:  16
+this works
+Best Solution Cost -->  9147 k:  17
+this works
+Best Solution Cost -->  9147 k:  18
+this works
+Best Solution Cost -->  9147 k:  19
+this works
+Best Solution Cost -->  9147 k:  20
+this works
+Best Solution Cost -->  9147 k:  21
+this works
+Best Solution Cost -->  9147 k:  22
+this works
+Best Solution Cost -->  9147 k:  23
+this works
+Best Solution Cost -->  9147 k:  24
+this works
+Best Solution Cost -->  9147 k:  25
+this works
+Best Solution Cost -->  9147 k:  26
+this works
+Best Solution Cost -->  9147 k:  27
+this works
+Best Solution Cost -->  9147 k:  28
+this works
+Best Solution Cost -->  9147 k:  29
+this works
+Best Solution Cost -->  9147 k:  30
+this works
+Best Solution Cost -->  9147 k:  31
+this works
+Best Solution Cost -->  9147 k:  32
+this works
+Best Solution Cost -->  9147 k:  33
+this works
+Best Solution Cost -->  9147 k:  34
+this works
+Best Solution Cost -->  9147 k:  35
+this works
+Best Solution Cost -->  9147 k:  36
+this works
+Best Solution Cost -->  9147 k:  37
+this works
+Best Solution Cost -->  9147 k:  38
+this works
+Best Solution Cost -->  9147 k:  39
+this works
+Best Solution Cost -->  9147 k:  40
+this works
+Best Solution Cost -->  9147 k:  41
+this works
+Best Solution Cost -->  9147 k:  42
+this works
+Best Solution Cost -->  9147 k:  43
+this works
+Best Solution Cost -->  9147 k:  44
+this works
+Best Solution Cost -->  9147 k:  45
+this works
+Best Solution Cost -->  9147 k:  46
+this works
+Best Solution Cost -->  9147 k:  47
+this works
+Best Solution Cost -->  9147 k:  48
+this works
+Best Solution Cost -->  9147 k:  49
+this works
+Best Solution Cost -->  9147 k:  50
+this works
+Best Solution Cost -->  9147 k:  51
+this works
+Best Solution Cost -->  9147 k:  52
+this works
+Best Solution Cost -->  9147 k:  53
+this works
+Best Solution Cost -->  9147 k:  54
+this works
+Best Solution Cost -->  9147 k:  55
+this works
+Best Solution Cost -->  9147 k:  56
+this works
+Best Solution Cost -->  9147 k:  57
+this works
+Best Solution Cost -->  9147 k:  58
+this works
+Best Solution Cost -->  9147 k:  59
+this works
+Best Solution Cost -->  9147 k:  60
+this works
+Best Solution Cost -->  9147 k:  61
+this works
+Best Solution Cost -->  9147 k:  62
+this works
+Best Solution Cost -->  9147 k:  63
+this works
+Best Solution Cost -->  9147 k:  64
+this works
+Best Solution Cost -->  9147 k:  65
+this works
+Best Solution Cost -->  9147 k:  66
+this works
+Best Solution Cost -->  9147 k:  67
+this works
+Best Solution Cost -->  9147 k:  68
+this works
+Best Solution Cost -->  9147 k:  69
+this works
+Best Solution Cost -->  9147 k:  70
+this works
+Best Solution Cost -->  9147 k:  71
+this works
+Best Solution Cost -->  9147 k:  72
+this works
+Best Solution Cost -->  9147 k:  73
+this works
+Best Solution Cost -->  9147 k:  74
+this works
+Best Solution Cost -->  9147 k:  75
+this works
+Best Solution Cost -->  9147 k:  76
+this works
+Best Solution Cost -->  9147 k:  77
+this works
+Best Solution Cost -->  9147 k:  78
+this works
+Best Solution Cost -->  9147 k:  79
+this works
+Best Solution Cost -->  9147 k:  80
+this works
+Best Solution Cost -->  9147 k:  81
+this works
+Best Solution Cost -->  9147 k:  82
+this works
+Best Solution Cost -->  9147 k:  83
+this works
+Best Solution Cost -->  9147 k:  84
+this works
+Best Solution Cost -->  9147 k:  85
+this works
+Best Solution Cost -->  9147 k:  86
+this works
+Best Solution Cost -->  9147 k:  87
+this works
+Best Solution Cost -->  9147 k:  88
+this works
+Best Solution Cost -->  9147 k:  89
+this works
+Best Solution Cost -->  9147 k:  90
+this works
+Best Solution Cost -->  9147 k:  91
+this works
+Best Solution Cost -->  9147 k:  92
+this works
+Best Solution Cost -->  9147 k:  93
+this works
+Best Solution Cost -->  9147 k:  94
+this works
+Best Solution Cost -->  9147 k:  95
+this works
+Best Solution Cost -->  9147 k:  96
+this works
+Best Solution Cost -->  9147 k:  97
+this works
+Best Solution Cost -->  9147 k:  98
+this works
+Best Solution Cost -->  9147 k:  99
+this works
+Best Solution Cost -->  9147 k:  100
+[11, 49, 54, 39, 31, 24, 14, 38, 33, 7, 61, 26]
+Final Solution:  [11, 49, 54, 39, 31, 24, 14, 38, 33, 7, 61, 26] 
+Cost:  9147 
+Weight 985
+Time:  0.11248636245727539
